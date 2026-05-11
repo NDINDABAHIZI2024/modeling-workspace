@@ -1,0 +1,10 @@
+# Large raw data files (exceed GitHub's 100MB limit)
+data/raw/ebuzima_anc_april_2025_mar_2026.csv
+data/raw/ebuzima_anc_followup_april_2025_mar_2026.csv
+data/raw/ebuzima_mat_april_oct_2025_mar_2026.csv
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
